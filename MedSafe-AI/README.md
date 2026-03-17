@@ -54,11 +54,6 @@ export GEMINI_API_KEY="your-gemini-api-key-here"   # Mac/Linux
 set GEMINI_API_KEY=your-gemini-api-key-here        # Windows
 ```
 
-### 4. Run the App
-```bash
-streamlit run streamlit_app.py
-```
-App will open at `http://localhost:8501`
 
 ---
 
@@ -116,8 +111,10 @@ MedSafe AI is for **educational and informational purposes only**. It is not a s
 
 ## 👥 Contributors
 
-- Radhika Saxena (Radhika2811055)
-- Rishita Pandey(RishitaPandey2327)
+- Harsh Monga 
+- Harsh Rana
 - Team Members
+
+Buy coffee for Rishita Pandey 
 
 **Milestone 4 — Activity 4.3: Deployment Preparation and Final Validation**
